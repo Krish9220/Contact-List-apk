@@ -111,8 +111,5 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-        void krish()
-        {
-            Toast.makeText(this, "krishop", Toast.LENGTH_SHORT).show();
-        }
+
 }
