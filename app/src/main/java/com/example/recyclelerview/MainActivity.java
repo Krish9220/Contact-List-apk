@@ -109,5 +109,10 @@ public class MainActivity extends AppCompatActivity {
         adapter=new RecyclerContactAdapter(this,arrayList);
         recyclerView.setAdapter(adapter);
 
+
     }
+        void krish()
+        {
+            Toast.makeText(this, "krishop", Toast.LENGTH_SHORT).show();
+        }
 }
